@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "ios-kit"
+  s.name             = "TLKit"
   s.version          = "0.1.0"
   s.summary          = "Tablist iOS Core"
 
