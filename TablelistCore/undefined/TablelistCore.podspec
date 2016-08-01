@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'TablelistCore'
-  s.version          = '5.6.2'
+  s.version          = '5.7.1'
   s.summary          = 'Official Tablelist SDK for Swift 2.2'
   s.homepage         = 'https://github.com/tablelist/ios-sdk'
   s.license          = 'MIT'
